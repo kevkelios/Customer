@@ -11,6 +11,7 @@ buildscript {
 }
 
 apply plugin: 'java'
+apply plugin: 'idea'
 apply plugin: 'eclipse'
 apply plugin: 'spring-boot' 
 
@@ -18,8 +19,6 @@ jar {
 	baseName = 'demo'
 	version = '0.0.1-SNAPSHOT'
 }
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
 
 repositories {
 	mavenCentral()
@@ -27,7 +26,7 @@ repositories {
 
 
 dependencies {
-	compile('org.springframework.boot:spring-boot-starter')
+	compile('org.springframework.boot:spring-boot-starter-web')
 	testCompile('org.springframework.boot:spring-boot-starter-test') 
 }
 
