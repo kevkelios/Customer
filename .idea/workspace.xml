@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81abd31a-c399-4282-bd4a-3e120f886a12" name="Default" comment="adding comments">
+    <list default="true" id="81abd31a-c399-4282-bd4a-3e120f886a12" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/CustomerController.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/CustomerController.java" />
     </list>
     <ignored path="PostmanPostmanPostman.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1118,7 +1117,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464238503025</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding comments">
+      <created>1464303958814</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1464303958814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
